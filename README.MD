@@ -1,0 +1,1 @@
+- Für dieses Projekt sollst du eine moderne Webseite für ein Tool erstellen, dass sich auf Kollaborationen zwischen Unternehmen spezialisiert hat.
